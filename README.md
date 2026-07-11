@@ -1,6 +1,6 @@
 # pelican-eggs
 
-My personal collection of [Pelican](https://pelican.dev) game-server eggs. Pelican only, no Pterodactyl variants.
+My personal collection of game-server eggs, with [Pelican](https://pelican.dev) exports and Pterodactyl compatibility variants where available.
 
 ## Eggs
 
